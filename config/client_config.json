@@ -1,0 +1,23 @@
+{
+  "server_url": "http://127.0.0.1:5000",
+  "api_key": "Q0k1xUW0SZbFZMykTJCRYZtyUmU5K--85MRAmOFzQbw",
+  "poll_interval": 5,
+  "verify_timeout": 30,
+  "log_file": "logs/client.log",
+  "devices": {
+    "my-pc": {
+      "mac": "AA:BB:CC:DD:EE:FF",
+      "ip": "127.0.0.1",
+      "broadcast": "255.255.255.255",
+      "port": 9,
+      "description": "我的主计算机"
+    },
+    "my-laptop": {
+      "mac": "11:22:33:44:55:66",
+      "ip": "127.0.0.1",
+      "broadcast": "255.255.255.255",
+      "port": 9,
+      "description": "我的笔记本电脑"
+    }
+  }
+}

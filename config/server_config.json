@@ -1,0 +1,10 @@
+{
+  "host": "127.0.0.1",
+  "port": 5000,
+  "api_key": "Q0k1xUW0SZbFZMykTJCRYZtyUmU5K--85MRAmOFzQbw",
+  "web_password": "test123",
+  "secret_key": "ZplmZJQWhDCfwjsALQbQZky9EJacXTfRRHS1kCieF0I",
+  "debug": true,
+  "log_file": "logs/server.log",
+  "task_retention_seconds": 3600
+}
